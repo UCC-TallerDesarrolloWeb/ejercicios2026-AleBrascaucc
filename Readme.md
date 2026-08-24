@@ -19,11 +19,11 @@
 -  [X] Secciones
 -  [X] Títulos
 -  [X] Listas
--  [ ] Link
--  [ ] Tablas I
--  [ ] Tablas II
--  [ ] Tablas III
--  [ ] Tablas VI
+-  [X] Link
+-  [X] Tablas I
+-  [X] Tablas II
+-  [X] Tablas III
+-  [X] Tablas VI
 -  [ ] Comentarios
 -  [ ] Formulario
 -  [ ] Accesibilidad
