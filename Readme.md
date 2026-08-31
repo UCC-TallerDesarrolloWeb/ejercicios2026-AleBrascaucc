@@ -24,14 +24,14 @@
 -  [X] Tablas II
 -  [X] Tablas III
 -  [X] Tablas VI
--  [ ] Comentarios
--  [ ] Formulario
--  [ ] Accesibilidad
--  [ ] Multimedia
+-  [X] Comentarios
+-  [X] Formulario
+-  [X] Accesibilidad
+-  [X] Multimedia
 
 ### CSS
--  [ ] Propiedades tipográficas
--  [ ] Incrustado
+-  [X] Propiedades tipográficas
+-  [X] Incrustado
 -  [ ] Estilo con Descendientes
 -  [ ] Pseudo Clases
 -  [ ] CV
