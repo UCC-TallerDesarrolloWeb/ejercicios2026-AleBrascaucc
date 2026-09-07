@@ -36,8 +36,8 @@
 -  [X] Pseudo Clases
 -  [X] CV
 -  [X] Backgrounds
--  [ ] Position
--  [ ] 2 Columnas
+-  [X] Position
+-  [X] 2 Columnas
 -  [ ] Grid
 -  [ ] grid-areas
 -  [ ] Mejora
